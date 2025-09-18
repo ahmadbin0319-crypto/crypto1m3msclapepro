@@ -1,0 +1,5 @@
+pandas
+requests
+ccxt
+python-telegram-bot==20.0
+pytz
